@@ -1,5 +1,5 @@
 # Matemática 2
-Ejercicios resueltos y resúmenes de Matemática 2 (2025).
+Prácticas y resúmenes de Matemática 2 (2025).
 
 ### 📂 Estructura
 Este repositorio está dividido en las cinco unidades de la cursada:
